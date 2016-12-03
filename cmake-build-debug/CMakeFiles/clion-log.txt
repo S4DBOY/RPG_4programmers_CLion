@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/kamil/ClionProjects/RPG_4programmers
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kamil/ClionProjects/RPG_4programmers/cmake-build-debug

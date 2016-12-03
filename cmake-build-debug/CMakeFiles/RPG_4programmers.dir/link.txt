@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/RPG_4programmers.dir/main.cpp.o  -o RPG_4programmers 
